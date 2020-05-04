@@ -1,0 +1,7 @@
+{
+  "introduce": ["I'm your Product Assistant.","You can call me P.A","I'm P.A. How may I help you?","I'm your Product Assistant, ready to help you shop!"],
+  "greetings": ["Hi there!", "Hello!", "Hey!"],
+  "gratitude": ["You're welcome", "Anytime!", "Glad I could be of help"],
+  "basic_query_resp": ["Here are the details:"],
+  "order_resp": ["Order confirmed.", "Order placed.", "Done."]
+}
